@@ -1,0 +1,16 @@
+.hero-card {
+    width: 30%;
+    margin-top: 20px;
+    font-size: 20px;
+    border: thick double #035879;
+	border-radius: 10px;
+}
+
+.hero-card img {
+    width: 100%;
+}
+
+.hero-name {
+    font-size: 24px;
+    font-weight: bold;
+}
