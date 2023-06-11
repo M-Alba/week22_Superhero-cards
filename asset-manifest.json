@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week22_Superhero-cards/static/css/main.a66fdea6.css",
+    "main.js": "/week22_Superhero-cards/static/js/main.3e9b39c3.js",
+    "static/js/787.8b16a46f.chunk.js": "/week22_Superhero-cards/static/js/787.8b16a46f.chunk.js",
+    "index.html": "/week22_Superhero-cards/index.html",
+    "main.a66fdea6.css.map": "/week22_Superhero-cards/static/css/main.a66fdea6.css.map",
+    "main.3e9b39c3.js.map": "/week22_Superhero-cards/static/js/main.3e9b39c3.js.map",
+    "787.8b16a46f.chunk.js.map": "/week22_Superhero-cards/static/js/787.8b16a46f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66fdea6.css",
+    "static/js/main.3e9b39c3.js"
+  ]
+}
